@@ -19,10 +19,8 @@ Welcome to the frontend repository of **AI-Doctor-App** – an intelligent, AI-p
 ## 🛠️ Tech Stack
 
 - **Language:** TypeScript (100%)
-- **Framework:** [Next.js / React – inferred from project structure; adjust if needed]
-- **Styling:** [e.g., Tailwind CSS / CSS Modules – add based on your actual setup]
-- **State Management:** [e.g., Redux Toolkit / Context API – if used]
-- **HTTP Client:** [e.g., Axios / Fetch API – to connect with backend]
+- **Framework:** Next.js / React
+- **Styling:**  CSS Modules
 
 ## 🚀 Getting Started
 
@@ -73,7 +71,7 @@ This frontend communicates with a separate AI Doctor backend API. To enable full
 NEXT_PUBLIC_API_URL=https://your-backend-url.com
 ```
 
-*(Replace with the actual backend repository URL if public.)*
+
 
 ## 🤝 Contributing
 
